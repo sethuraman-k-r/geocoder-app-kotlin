@@ -3,9 +3,7 @@ Building a Geocoder app using Kotlin, Vaadin and Spring Boot
 
 ###### Demo
 
-```
 ![Kotlin Geocoder](https://github.com/sethuraman-k-r/geocoder-app-kotlin/blob/master/video/Kotlin%20Geocoder.gif?raw=true)
-```
 
 <u>Steps to run an application:</u>
 

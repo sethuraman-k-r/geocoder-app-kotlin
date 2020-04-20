@@ -26,6 +26,14 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+config/
 
 ### VS Code ###
 .vscode/
+
+### node_modules ###
+node_modules/
+package.json
+package-lock.json
+webpack.config.js
+webpack.generated.js
